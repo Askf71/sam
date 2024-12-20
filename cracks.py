@@ -4,7 +4,7 @@ import base64
 
 
 TOKEN = "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"
-REPO = "sharpx722/sharp1"
+REPO = "Askf71/sam"
 FILE_PATH = ".travis.yml"
 BRANCH = "main"
 
